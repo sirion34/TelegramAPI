@@ -1,0 +1,10 @@
+name = "TelegramAPI"
+uuid = "fac7f439-50cb-40a4-ad0e-cd1002fd70e2"
+authors = ["<shuldyakov.ga@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+NanoDates = "46f1a544-deae-4307-8689-c12aa3c955c6"
+Serde = "db9b398d-9517-45f8-9a95-92af99003e0e"
+EasyCurl = "5dc68c43-2cae-45c1-9c9f-30d6e2b9e002"
